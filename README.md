@@ -58,7 +58,12 @@ From Mobile To Desktop (BOG 10 mins)
 3. Change cards from column to row when screen width is 1000px or greater 
 
 
+### Lab 12:55pm - 3:15pm 
 
+- Product Landing Page (Responsive Design) (Canvas)
+
+
+    
 
     
      
